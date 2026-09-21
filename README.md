@@ -330,10 +330,6 @@ Copyright © 2026 hehedi. All Rights Reserved.
 | FFmpeg / ffprobe      | 媒体解析、预览与转码    |
 | 其它第三方库                | 按实际使用情况列出     |
 
-完整的第三方组件、版权归属和许可证文本请参阅：
-
-[`THIRD-PARTY-NOTICES.md`](THIRD-PARTY-NOTICES.md)
-
 > 注意：第三方组件的许可证独立于“一键导卡”本身的专有软件许可证。
 
 ---
