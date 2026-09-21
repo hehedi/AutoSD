@@ -1,4 +1,4 @@
-[English](README_en.md) | [中文](README.md)
+[English](README_EN.md) | [中文](README.md)
 
 # 一键导卡
 
