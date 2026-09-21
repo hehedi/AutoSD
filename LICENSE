@@ -1,24 +1,111 @@
-This is free and unencumbered software released into the public domain.
+# 一键导卡（AutoCard）软件许可证
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
+**Copyright © 2026 hehedi. All Rights Reserved.**
 
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
+版权所有。除非获得软件著作权人或合法授权方的明确书面许可，否则不得以任何形式复制、修改、再发布、销售、出租、分发或再授权本软件。
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
+## 1. 许可证授予
 
-For more information, please refer to <https://unlicense.org>
+在遵守本许可证全部条款的前提下，版权持有人授予获得合法授权的个人或组织一项有限的、非独占的、不可转让的、不可再许可的软件使用权。
+
+该使用权仅限于：
+
+* 在获得授权的计算机设备上安装、运行和使用本软件；
+* 在个人或所在组织的正常业务、教学、制作及其他合法内部工作中使用本软件；
+* 根据软件实际提供的功能，对软件处理的数据、素材及项目文件进行正常操作。
+
+除上述明确授予的权利外，本软件的其他所有权利均由版权持有人保留。
+
+## 2. 禁止事项
+
+未经版权持有人书面授权，不得：
+
+1. 复制、重新打包、镜像、上传或传播本软件及其完整发行包；
+2. 将本软件提供给未获授权的第三方使用；
+3. 对本软件进行修改、改编、翻译、反编译、反汇编或逆向工程；
+4. 试图提取、还原或获取本软件的源代码、核心算法或内部实现；
+5. 移除、修改或隐藏软件中的版权、商标、版本及其他权利声明；
+6. 以本软件或其修改版本为基础制作衍生产品并向第三方提供；
+7. 出租、出售、转售、转授权、转让或以其他方式商业化分发本软件；
+8. 将本软件或其中任何组成部分用于违反适用法律法规的活动；
+9. 绕过软件的授权、技术限制、安全机制或其他访问控制措施；
+10. 使用自动化方式批量复制、抓取或重新分发本软件发行内容。
+
+## 3. 个人及组织内部使用
+
+经过合法授权的组织可以在其自身拥有或管理的设备中使用本软件，但该授权不自动延伸至：
+
+* 关联公司；
+* 外部合作单位；
+* 客户；
+* 学生或其他第三方；
+* 其他未获得独立授权的个人或组织。
+
+如需在上述场景中部署或提供本软件，应另行获得相应授权。
+
+## 4. 发行包及文件
+
+软件发行包中的可执行文件、动态链接库、配置文件、资源文件、图标、界面资源、脚本以及其他由版权持有人制作的内容，均属于本软件的一部分，除非其文件或对应许可证另有明确说明。
+
+未经授权，不得通过删除、替换、修改部分文件的方式重新包装本软件并向其他用户提供。
+
+## 5. 第三方组件
+
+本软件可能包含或依赖由第三方开发、维护或发布的软件组件、运行库、编解码器、字体、工具或其他资源。
+
+第三方组件不一定受本许可证约束，其版权及使用条件以各自适用的第三方许可证为准。
+
+以及软件发行包中实际附带的相关许可文件为准。
+
+本许可证不主张限制任何第三方许可证明确授予的权利。
+
+## 6. 软件名称及品牌
+
+“一键导卡”及“AutoCard”名称，以及软件中的相关图标、标识、界面资源和其他品牌元素，其相关权利由对应权利人保留。
+
+除获得明确授权外，不得使用上述名称或标识表示某一修改版本、衍生产品或第三方服务获得官方认可、授权或关联。
+
+## 7. 软件提供方式
+
+本软件以现有发行版本提供。
+
+除软件另有明确书面承诺外，版权持有人不保证：
+
+* 软件始终不存在错误或缺陷；
+* 软件能够满足特定用途的全部需求；
+* 软件能够兼容所有硬件、操作系统、存储设备或媒体格式；
+* 软件能够在所有运行环境中持续正常工作；
+* 软件未来一定继续提供某项功能或保持当前行为。
+
+对于涉及文件复制、素材删除、存储设备操作等功能，用户仍应根据自身业务需求建立独立的数据备份机制。
+
+## 8. 责任限制
+
+在适用法律允许的最大范围内，对于因使用或无法使用本软件而产生的任何直接或间接损失，包括但不限于：
+
+* 数据丢失；
+* 素材损坏；
+* 存储设备故障；
+* 业务中断；
+* 利润或收入损失；
+* 第三方索赔；
+
+版权持有人不承担超出适用法律规定范围之外的责任。
+
+本条不排除适用法律明确禁止排除或限制的责任。
+
+## 9. 许可证终止
+
+如用户违反本许可证中的任何重要条款，本许可证授予的使用权可立即终止。
+
+许可证终止后，使用者必须停止使用本软件，并删除其持有或控制范围内的未经授权的软件副本。
+
+许可证终止不影响版权持有人依法享有的其他权利或救济措施。
+
+## 10. 许可证转让
+
+除版权持有人另行书面同意外，本许可证及其授予的使用权不得转让、出租、出售、再许可或以其他方式转移给第三方。
+
+## 11. 权利保留
+
+除本许可证明确授予的有限使用权外，本软件涉及的全部知识产权及其他相关权利均由版权持有人及合法的第三方权利人
