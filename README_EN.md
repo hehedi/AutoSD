@@ -2,6 +2,8 @@
 
 **A media import and processing tool for photography, videography, and post-production workflows.**
 
+**The software ships with English and makes it easy to add multiple languages—simply place the language files into the language folder inside the software.**
+
 One-Click Card Import was originally built to solve the problem of organizing, copying, and archiving media from storage cards after a shoot. Through continuous development, it has grown into a workflow tool that integrates **device recognition, media ingest, verification and backup, task management, transcoding, media browsing, on-site automatic ingest, and LAN collaboration**.
 
 ---
