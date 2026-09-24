@@ -348,13 +348,12 @@ Copyright © 2026 hehedi. All Rights Reserved.
 
 主要组件包括：
 
-| 组件                    | 用途            |
-| --------------------- | ------------- |
-| .NET                  | 应用基础运行环境      |
-| Windows App SDK       | Windows 应用框架  |
-| CommunityToolkit.Mvvm | MVVM / 应用基础设施 |
-| FFmpeg / ffprobe      | 媒体解析、预览与转码    |
-| 其它第三方库                | 按实际使用情况列出     |
+| 组件或资源 | 用途与说明 |
+| --- | --- |
+| Avalonia | 当前桌面界面框架 |
+| FFmpeg / ffprobe | 媒体探测、预览与转码；具体许可取决于随包构建 |
+| MiSans | 界面字体与导出 PDF 的字形呈现，适用其字体许可协议 |
+| PDFsharp | PDF 导出；适用 MIT 许可证 |
 
 > 注意：第三方组件的许可证独立于“一键导卡”本身的专有软件许可证。
 
