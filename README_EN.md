@@ -346,13 +346,12 @@ These components **are not part of this project's closed-source portion**, and t
 
 Major components include:
 
-| Component             | Purpose                                  |
-| --------------------- | ---------------------------------------- |
-| .NET                  | Application runtime environment          |
-| Windows App SDK       | Windows app framework                    |
-| CommunityToolkit.Mvvm | MVVM / application infrastructure        |
-| FFmpeg / ffprobe      | Media parsing, preview, and transcoding  |
-| Other third-party libraries | Listed according to actual usage    |
+| Component/resource | Purpose and notes |
+| --- | --- |
+| Avalonia | Current desktop UI framework |
+| FFmpeg / ffprobe | Media probing, previews and transcoding; the applicable license depends on the bundled build |
+| MiSans | Interface typography and PDF glyph rendering, subject to its font license |
+| PDFsharp | PDF export, under the MIT license |
 
 > Note: The licenses of third-party components are independent of the proprietary software license of One-Click Card Import itself.
 
